@@ -1,7 +1,7 @@
 # banana_split
 
 This was forked from https://github.com/paritytech/banana_split and optimized for convenience with a few small changes:  
-This version doesn't require to first safe the file, to be offline when generating the key shares, and to use a passphrase.
+This version doesn't require to first save the file, to be offline when generating the key shares, and to use a passphrase.
 
 ## Project setup
 ```
